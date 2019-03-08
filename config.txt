@@ -1,5 +1,0 @@
-[user]
-	email = NO
-	name = DELETED
-
-.gitignore: We do not need to include log files (.log) as it will not help other developers, it will only help us. :D
